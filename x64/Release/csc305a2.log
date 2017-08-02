@@ -1,0 +1,10 @@
+﻿  renderer.cpp
+renderer.cpp(626): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+renderer.cpp(628): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Generating code
+  197 of 5604 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csc305a2.vcxproj -> C:\Users\shen\Desktop\CSC305\sponza\x64\Release\csc305a2.exe
+  csc305a2.vcxproj -> C:\Users\shen\Desktop\CSC305\sponza\x64\Release\csc305a2.pdb (Full PDB)
